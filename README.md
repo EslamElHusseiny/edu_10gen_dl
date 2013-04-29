@@ -8,8 +8,9 @@ Accepts destination path as optional parameter.
 
 ###Dependencies:
 * Python 2.7
-* Mechanize
-* BeautifulSoup4
+* Mechanize "Python library"
+* BeautifulSoup4 "Python library"
+* bz4 "Python library"
 
 ###Format:
 + `python edu_10gen.py`
